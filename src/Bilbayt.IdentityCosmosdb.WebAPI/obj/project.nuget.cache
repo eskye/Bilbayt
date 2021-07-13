@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f561azb1WaeE9sfZhe8U1GdB4aUOmKvEc67Ng2TpOAVICHfLrPEb57TvafwN0vm70nePGuYv78isYO5NMUzhGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SunkanmiIjatuyi\\Documents\\Assessment\\Bilbayt\\src\\Bilbayt.IdentityCosmosdb.WebAPI\\Bilbayt.IdentityCosmosdb.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SunkanmiIjatuyi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SunkanmiIjatuyi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SunkanmiIjatuyi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SunkanmiIjatuyi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SunkanmiIjatuyi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SunkanmiIjatuyi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
